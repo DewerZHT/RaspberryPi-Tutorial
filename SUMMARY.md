@@ -1,5 +1,7 @@
 # Summary
 
+* [表目錄]
+* [圖目錄]
 * [簡介](./README.md)
 * [0 Raspberry Pi的緣起](./chapter00/README.md)
     - [0.1 父輩們](./chapter00/01_predecessor.md)
@@ -9,11 +11,13 @@
     - [1.2 微控制器](./chapter01/02_micro_controller.md)
 	- [1.3 嵌入式系統](./chapter01/03_embeded_system.md)
 	- [1.4 感測網路](./chapter01/04_micro_controller.md)
-* [2 環境準備]()
-	- [2.1 Linux Image]()
+* [2 環境準備](./chapter02/README.md)
+	- [2.1 Hardware Spec]()
+	- [2.2 Linux Image]()
+	- [2.3 Linux Image]()
 * [3 Raspberry基本輸入與輸出]()
 * [4 Raspberry模組控制]()
 * [5 Raspberry上的網路功能]()
 * [6 Node.js與Express]()
-* [參考書目]()
+* [參考書目](./REFERENCE.md)
 * [關於作者]()
